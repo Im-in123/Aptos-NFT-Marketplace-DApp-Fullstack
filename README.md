@@ -132,9 +132,4 @@ npm start
 https://aptos.dev/en/network/faucet
  
 
-###
-
-git add -A
-git commit -m "changes"
-git push
  
