@@ -62,8 +62,8 @@ A comprehensive decentralized marketplace built on the Aptos blockchain, enablin
 ```
 - Clone the repo:
 ```bash
-git clone  
-cd  
+git clone https://github.com/Im-in123/Aptos-NFT-Marketplace-DApp-Fullstack 
+cd  Aptos-NFT-Marketplace-DApp-Fullstack 
 ```
 
 ## 2. Backend Setup
