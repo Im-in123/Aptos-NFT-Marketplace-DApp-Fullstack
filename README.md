@@ -6,9 +6,9 @@ A comprehensive decentralized marketplace built on the Aptos blockchain, enablin
 
 ## Video Demonstration
 
-📺 Watch a demo of the App:  
-**[Watch App Demo] 👉 (https://youtu.be/Mn4woI8EyuQ)**
-*Local copy of demo video(demo.mp4) also exists at project root folder**
+📺 Watch a demo of the App:  **👉 (https://youtu.be/Mn4woI8EyuQ)**
+
+Local copy of demo video(demo.mp4) also exists at project root folder.
 
 ---
 ## My Deployed Smart Contract Address (testnet)
