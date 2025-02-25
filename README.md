@@ -8,8 +8,8 @@ A comprehensive decentralized marketplace built on the Aptos blockchain, enablin
 
 📺 Watch a demo of the App:  **👉 (https://youtu.be/Mn4woI8EyuQ)**
 
-Local copy of demo video(demo.mp4) also exists at project root folder.
-
+Local copy of demo video(demo.mp4) also exists at project root folder [here](demo.mp4).
+ 
 ---
 ## My Deployed Smart Contract Address (testnet)
 **Smart Contract Address:** 👉  (https://explorer.aptoslabs.com/account/0x381909e7b424111da9b8626a84bd6ce581c5efd8eeec2accefe085e4bd335908/modules/code/NFTMarketplace/initialize?network=testnet)  
